@@ -1,4 +1,4 @@
-REMIX EXAMPLE PROJECT
+REMIX EXAMPLE PROJECT (DELETED: I have replaced template files with extended code assignments)
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
